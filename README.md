@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Feranmi
+- 👋 Hi, I’m Feranmi
 - 👀 I’m interested in Data Analytics 
 - 🌱 I’m currently learning Programming language 
 - 💞️ I’m looking to collaborate on Data Analytics 
